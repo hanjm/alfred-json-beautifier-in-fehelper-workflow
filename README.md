@@ -18,3 +18,5 @@ View clipboard/input JSON in FeHelper
 4. Open alfred, type "json" and enter. it will open chrome FeHelper page and paste json.
 
 # Screenshot
+
+![view-json-in-fehelper-workflow.gif](view-json-in-fehelper-workflow.gif)
